@@ -1,8 +1,13 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.PolitovDS.Sprint0.Task0.V0/Tyuiu.PolitovDS.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.PolitovDS.Sprint0.Task0.V0/Tyuiu.PolitovDS.Sprint0.Task0.V0.csproj" Id="c4272e60-3e2f-46e1-914a-b879f6d2ce2f" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.PolitovDS.Sprint0.Task1.V0/Tyuiu.PolitovDS.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.PolitovDS.Sprint0.Task1.V0/Tyuiu.PolitovDS.Sprint0.Task1.V0.csproj" Id="320e6c59-db89-417d-b747-f88749546446" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.PolitovDS.Sprint0.Task2.V0.Lib/Tyuiu.PolitovDS.Sprint0.Task2.V0.Lib.csproj" Id="341c892b-d442-435b-b626-fab74e4b4b79" />
+    <Project Path="Tyuiu.PolitovDS.Sprint0.Task2.V0.Test/Tyuiu.PolitovDS.Sprint0.Task2.V0.Test.csproj" Id="c74f84b8-1f33-4d03-87e6-320ce5b1d829" />
+    <Project Path="Tyuiu.PolitovDS.Sprint0.Task2.V0/Tyuiu.PolitovDS.Sprint0.Task2.V0.csproj" Id="8af9aa9d-5287-4476-ac2e-001dd6f25ef8" />
   </Folder>
 </Solution>
