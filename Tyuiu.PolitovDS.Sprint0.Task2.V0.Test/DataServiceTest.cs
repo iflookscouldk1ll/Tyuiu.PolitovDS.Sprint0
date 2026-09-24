@@ -13,7 +13,7 @@ namespace Tyuiu.PolitovDS.Sprint0.Task2.V0.Test
             var name = "Дима";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет... , Дима", res); 
+            Assert.AreEqual("Привет..., Дима", res); 
         }
     }
 }
